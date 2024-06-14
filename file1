@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a new file created on feature1 branch for testing
+=======
+this is file1 created on feature2  and merged with master branch 
+>>>>>>> feature2
